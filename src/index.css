@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Public Sans", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+  font-size: 22px;
+}
